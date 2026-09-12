@@ -1,0 +1,2 @@
+# 占位文件：请把图库图片放在本目录（可按类别建子文件夹）。
+# 没有自己的图片时，可运行 python scripts/prepare_cifar_demo.py 生成示例图。

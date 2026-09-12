@@ -1,0 +1,17 @@
+# Python 虚拟环境与缓存
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# 运行时生成的特征库与数据集（体积大，不入库）
+features.pkl
+data/
+
+# 用户自己的图库不入库，仅保留目录占位
+images/*
+!images/.gitkeep
+
+# 系统文件
+.DS_Store
+Thumbs.db
